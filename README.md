@@ -1,2 +1,0 @@
-# Mytest
-Proyecto de prueba
